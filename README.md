@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm sparrow, a Front-end developer from China🇨🇳.
+I'm **sparrow**, a Front-end developer from **China**.<img width=30 src=https://user-images.githubusercontent.com/29775873/142716615-98e19a67-393c-47c9-b9e4-c9cacb1a6ffd.png>
+
+哈哈，你我不都只有一条生命嘛。说不定日后我就成为你呢？
 <!--
 **lianglei-git/lianglei-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
