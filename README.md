@@ -3,9 +3,8 @@ I'm **sparrow**, a Front-end developer from **China**.<img width=30 src=https://
 
 >《礼记·学记》有云：“独学而无友，则孤陋而寡闻。”有鉴于此，笔者只好梳理实务的心得，分享自己的经验教训，接受读者的评判，走出“独学”的樊笼，重拾“凝望”之笔。  
 学识浅陋，绝非谦辞，管中窥豹，错谬难免，期待本号产出能够抛砖引玉，则笔者幸甚！路漫漫其修远兮。 是为序；  
-我们凝望着最初的凝望。
 
-互相成就。
+互相成就，我们凝望着最初的凝望。
 
 <!--
 **lianglei-git/lianglei-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
