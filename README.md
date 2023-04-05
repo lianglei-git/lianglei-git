@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm **sparrow**, a Front-end developer from **China**.<img width=30 src=https://user-images.githubusercontent.com/29775873/142716615-98e19a67-393c-47c9-b9e4-c9cacb1a6ffd.png>  
-凝望最初的凝望。
+🪢 To Bait.
 
 <!--
 **lianglei-git/lianglei-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
